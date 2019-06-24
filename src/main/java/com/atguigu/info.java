@@ -7,5 +7,11 @@ package com.atguigu;
 public class info {
     public static void main(String[] args) {
         System.out.println("name : zhangsan , age : 21");
+        System.out.println("name : zhangsan , age : 21");
+        System.out.println("name : zhangsan , age : 21");
+        System.out.println("name : zhangsan , age : 21");
+        System.out.println("name : zhangsan , age : 21");
+        System.out.println("name : zhangsan , age : 21");
+        System.out.println("name : zhangsan , age : 21");
     }
 }
